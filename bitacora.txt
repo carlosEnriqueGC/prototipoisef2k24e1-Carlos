@@ -1,0 +1,304 @@
+commit e05a432c07387dd074a9bb62fe13ea22ebf3b13b
+Merge: d29d721 88039f6
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 11:25:44 2024 -0600
+
+    Merge pull request #12 from coradoa/main
+    
+    agreagando lo de el boton de reportes
+
+commit 88039f6c59e8062718aac197b53d502116a494de
+Author: coradoa <acoradop@miumg.edu.gt>
+Date:   Thu Jun 6 11:21:28 2024 -0600
+
+    agreagando lo de el boton de reportes
+
+commit 2067ae9e22e01dfa246da445cf550953e0ba01a0
+Merge: 295c340 d29d721
+Author: coradoa <acoradop@miumg.edu.gt>
+Date:   Thu Jun 6 11:17:12 2024 -0600
+
+    Merge branch 'main' of https://github.com/coradoa/prototipoisef2k24e1
+
+commit 295c34098455f69913ac79abde1f5661337f3fc6
+Author: coradoa <acoradop@miumg.edu.gt>
+Date:   Thu Jun 6 11:16:59 2024 -0600
+
+    cambiando cosas
+
+commit d29d72196e7bb82ece7412839a8119ee68277597
+Merge: 94479bf dd0a4a4
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 11:15:27 2024 -0600
+
+    Merge pull request #11 from cchuye/RamaMantenimientos0901201381
+    
+    Arreglando Error
+
+commit dd0a4a45e28ad91640fe1443e0da187fd5b9dc47
+Merge: cc6f4b7 94479bf
+Author: cchuye <carol.escobar.1116@gmail.com>
+Date:   Thu Jun 6 11:11:54 2024 -0600
+
+    Merge branch 'main' of https://github.com/cchuye/prototipoisef2k24e1 into RamaMantenimientos0901201381
+
+commit cc6f4b79352f1d40de9fe0944516b74474b5050d
+Author: cchuye <carol.escobar.1116@gmail.com>
+Date:   Thu Jun 6 11:11:00 2024 -0600
+
+    Arreglando Error
+
+commit 94479bf15fa588d207c231df581f95bc297a043b
+Merge: c2b5eb0 14bdb7a
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 11:08:31 2024 -0600
+
+    Merge pull request #10 from cchuye/RamaMantenimientos0901201381
+    
+    Rama mantenimientos Jornadas y Secciones
+
+commit 14bdb7ac8032780a00627c55ebd727eaeb27401e
+Merge: 22006b5 c2b5eb0
+Author: cchuye <carol.escobar.1116@gmail.com>
+Date:   Thu Jun 6 11:06:41 2024 -0600
+
+    Actualizando Rama
+
+commit 22006b50c0901f0f7edfc2baf3a913fe97096b44
+Merge: 2d39ada 19d9b50
+Author: cchuye <carol.escobar.1116@gmail.com>
+Date:   Thu Jun 6 11:05:25 2024 -0600
+
+    Arreglando Rama
+
+commit c2b5eb047f22a8c52a9a09639142c5aaffa2d033
+Merge: b2e3892 d14059c
+Author: David Carrillo <carrillod421@gmail.com>
+Date:   Thu Jun 6 11:04:32 2024 -0600
+
+    Merge branch 'main' of https://github.com/DACR-DC/prototipoisef2k24e1
+
+commit b2e3892517f76baa5b97c4094a1a51ec94e6d23d
+Author: David Carrillo <carrillod421@gmail.com>
+Date:   Thu Jun 6 11:04:29 2024 -0600
+
+    subiendo cronograma
+
+commit d14059c6cd76e0686fff832b62b11384b867d97a
+Merge: 19d9b50 dc7470e
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 11:04:08 2024 -0600
+
+    Merge pull request #9 from OTEKE10/main
+    
+    Actualización MDI
+
+commit dc7470ef1b29078fbaf4e6dc196791356a274829
+Merge: 95f0acb 19d9b50
+Author: Otto Ventura <139597154+OTEKE10@users.noreply.github.com>
+Date:   Thu Jun 6 11:02:04 2024 -0600
+
+    Merge branch 'main' of https://github.com/OTEKE10/prototipoisef2k24e1
+
+commit 95f0acbc3a4509fc777e318f63b6cad27dfd32a8
+Author: Otto Ventura <139597154+OTEKE10@users.noreply.github.com>
+Date:   Thu Jun 6 11:01:18 2024 -0600
+
+    Actualización de MDI
+
+commit 2d39adae034ec061c6883bb50b178114857cce17
+Author: cchuye <carol.escobar.1116@gmail.com>
+Date:   Thu Jun 6 11:00:30 2024 -0600
+
+    Agregando mantenimiento jornadas y secciones
+
+commit 19d9b50933a898b2079be65e3c8e5eb16f32f681
+Merge: d363d94 708046d
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 10:59:55 2024 -0600
+
+    Merge pull request #8 from coradoa/main
+    
+    arreglado
+
+commit 708046de7b95b782e1527e66b6e7e31a1baddb62
+Author: coradoa <acoradop@miumg.edu.gt>
+Date:   Thu Jun 6 10:59:08 2024 -0600
+
+    agregando otro reporte
+
+commit 6257a7fe5e8210df956b3e5bdfd24f6a6ada33e7
+Merge: 277cdbc d363d94
+Author: coradoa <90011754+coradoa@users.noreply.github.com>
+Date:   Thu Jun 6 10:58:15 2024 -0600
+
+    Merge branch 'DACR-DC:main' into main
+
+commit 277cdbcea420b0822578ac8be2a55149f8ecf9de
+Author: coradoa <acoradop@miumg.edu.gt>
+Date:   Thu Jun 6 10:58:00 2024 -0600
+
+    arreglado
+
+commit d363d944a4d0245d411aa35fcc52c19ad08df7c0
+Merge: 5c8f1fb 83da019
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 10:53:26 2024 -0600
+
+    Merge pull request #7 from coradoa/main
+    
+     Agregando reporte de asignación de cursos alumno
+
+commit 5c8f1fb8653e8f6ce10b628113f8fee48c9c9369
+Author: David Carrillo <carrillod421@gmail.com>
+Date:   Thu Jun 6 10:52:24 2024 -0600
+
+    En caso de dll faltante
+
+commit 83da01974cc340183166b429fd2f570bb6b6b690
+Merge: 009a886 bed781a
+Author: coradoa <acoradop@miumg.edu.gt>
+Date:   Thu Jun 6 10:52:21 2024 -0600
+
+    Merge branch 'main' of https://github.com/coradoa/prototipoisef2k24e1
+
+commit 009a886bbcb4175fb8b17148101d63cd9d89b366
+Author: coradoa <acoradop@miumg.edu.gt>
+Date:   Thu Jun 6 10:52:01 2024 -0600
+
+    Agregando reporte de asignación de cursos alumno
+
+commit bed781a824d419a675d62e8153d4035f86fe634a
+Author: David Carrillo <carrillod421@gmail.com>
+Date:   Thu Jun 6 10:45:17 2024 -0600
+
+    Script Actualizado
+
+commit 7e39cc7f0e8b4c9a56d3b29a7556fe1e3d4b4c23
+Merge: 0789fd9 b2730f5
+Author: coradoa <acoradop@miumg.edu.gt>
+Date:   Thu Jun 6 10:43:45 2024 -0600
+
+    Merge branch 'main' of https://github.com/coradoa/prototipoisef2k24e1
+
+commit 0789fd9527f434e34db9cdfe6056e6bd4a9e78dc
+Author: coradoa <acoradop@miumg.edu.gt>
+Date:   Thu Jun 6 10:43:33 2024 -0600
+
+    agragando reportes
+
+commit b2730f5d3428b6e673828c5abedf86aaffcd5274
+Merge: 584c105 4580d89
+Author: David Carrillo <carrillod421@gmail.com>
+Date:   Thu Jun 6 10:40:53 2024 -0600
+
+    Merge branch 'main' of https://github.com/DACR-DC/prototipoisef2k24e1
+
+commit 584c105878bd17ab5d3ef43a8d893c2483fc80a3
+Author: David Carrillo <carrillod421@gmail.com>
+Date:   Thu Jun 6 10:40:32 2024 -0600
+
+    Mantenimientos, Carreras, Cursos, Alumnos
+
+commit 4580d89b5cb490719a87e19a0af1bfa7bed3cc5c
+Merge: 27dbec5 e15c225
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 10:36:41 2024 -0600
+
+    Merge pull request #6 from OTEKE10/main
+    
+    Actualización MDI
+
+commit e15c225498ed17cafc2a0e3bcc56ac2a688f5a18
+Author: Otto Ventura <139597154+OTEKE10@users.noreply.github.com>
+Date:   Thu Jun 6 10:34:34 2024 -0600
+
+    Actualización MDI
+
+commit 27dbec585048fc9f36ce47c2c1ee6c9dc3ecca16
+Merge: ffa2f92 dee327e
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 10:31:47 2024 -0600
+
+    Merge pull request #5 from carlosEnriqueGC/consultaBitacoraCarlosEnrique
+    
+    Consulta bitacora carlos enrique
+
+commit dee327e27a82f1ebb03fabc8e6c6ea5f55bee7d5
+Merge: 50592cf ffa2f92
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Jun 6 10:17:31 2024 -0600
+
+    Merge branch 'main' of https://github.com/carlosEnriqueGC/prototipoisef2k24e1-Carlos into consultaBitacoraCarlosEnrique
+
+commit 50592cf09c06ce4c4cf3f612fc9bb2614776611a
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Jun 6 10:16:42 2024 -0600
+
+    registro de mantenimientos y procesos a la bitacora de serguridad
+
+commit ffa2f9223477a0c2116d1884e35ac5137f4cd04c
+Merge: f019c81 73ec9cc
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 10:14:34 2024 -0600
+
+    Merge pull request #4 from OTEKE10/main
+    
+    Agregando campos al MDI
+
+commit f019c81b2a419b7ec57ff86366a47ce16e75ae32
+Merge: 77abdfb d534a43
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 10:13:46 2024 -0600
+
+    Merge pull request #3 from cchuye/main
+    
+    Arreglando Script Final
+
+commit 73ec9cc552c585ade6b146efc22075af3935fcbd
+Author: Otto Ventura <139597154+OTEKE10@users.noreply.github.com>
+Date:   Thu Jun 6 10:13:04 2024 -0600
+
+    Agregando campos al MDI
+
+commit d534a436811bc664c0aa8b4a45659101536f13d2
+Author: cchuye <carol.escobar.1116@gmail.com>
+Date:   Thu Jun 6 10:12:30 2024 -0600
+
+    Arreglando Script Final
+
+commit 77abdfb5e69afd0eb4dbb97607e6a6da4360b2d9
+Merge: d0f3a4f b1f3697
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 10:07:06 2024 -0600
+
+    Merge pull request #2 from cchuye/main
+    
+    Agregando el Script con todo
+
+commit b1f36973557d64b830847e0a80efb41c71d63144
+Author: cchuye <carol.escobar.1116@gmail.com>
+Date:   Thu Jun 6 10:05:25 2024 -0600
+
+    Agregando el Script con todo
+
+commit d0f3a4fcc0342ba67262c555b3c9ee1a7c1b802d
+Merge: d8d1c3a 0eb8f1b
+Author: David Carrillo <94415372+DACR-DC@users.noreply.github.com>
+Date:   Thu Jun 6 09:49:59 2024 -0600
+
+    Merge pull request #1 from carlosEnriqueGC/CarlosEnrique
+    
+    base de proyecto
+
+commit 0eb8f1bc7941bf35e37db3b195c04c1ed638abe1
+Author: carlos enrique <cguzmanc10@miumg.edu.gt>
+Date:   Thu Jun 6 09:48:49 2024 -0600
+
+    base de proyecto
+
+commit d8d1c3aa07995782bce82cd897fab54800a130f3
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Thu Jun 6 00:32:42 2024 -0600
+
+    Initial commit
